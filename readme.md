@@ -1,4 +1,4 @@
-A small details about the dataset:
+Metadata:
 
 title = title of the recipe<br />
 desc= a brief description about the recipe<br />
